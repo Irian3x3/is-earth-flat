@@ -1,0 +1,6 @@
+{
+  "name": "earth-flat",
+  "version": "1.0.0",
+  "description": "Tells you if the earth is flat.",
+  "main": "main.js"
+}
